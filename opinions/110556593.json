@@ -116,17 +116,26 @@
         "purchase_date": "2021-11-16 21:51:44"
     },
     {
-        "opinion_id": "16681418",
-        "author": "g...6",
+        "opinion_id": "15157158",
+        "author": "l...k",
         "recommendation": "Polecam",
         "stars": "5/5",
-        "content": "Super, jak na razie spisuje się świetnie. Jestem zadowolony  z zakupu. Z sierścią psa radzi sobie doskonale. Funkcja mopowania też spisuje się na medal. Szczerze myślałem, że przereklomane ale pozytywnie się zaskoczyłem. Polecam",
-        "pros": [],
+        "content": "W tej cenie to najlepszy sprzęt dostępny na rynku. Obsługuje kilka pięter, super odkurza, dobrze rozbudowa aplikacja (smart)",
+        "pros": [
+            "dokładnie sprząta",
+            "funkcje smart home",
+            "łatwy do czyszczenia",
+            "mopuje sonicznie",
+            "mówi po polsku",
+            "nie wkręca włosów",
+            "nieobijasię o ściany",
+            "wytrzymała bateria"
+        ],
         "cons": [],
-        "useful": "0",
+        "useful": "1",
         "unuseful": "0",
-        "post_date": "2022-10-27 03:29:36",
-        "purchase_date": "2022-10-21 17:40:20"
+        "post_date": "2021-11-03 07:53:19",
+        "purchase_date": "2021-10-12 14:14:52"
     },
     {
         "opinion_id": "15145949",
@@ -168,26 +177,17 @@
         "purchase_date": "2022-04-09 08:39:30"
     },
     {
-        "opinion_id": "15157158",
-        "author": "l...k",
+        "opinion_id": "16681418",
+        "author": "g...6",
         "recommendation": "Polecam",
         "stars": "5/5",
-        "content": "W tej cenie to najlepszy sprzęt dostępny na rynku. Obsługuje kilka pięter, super odkurza, dobrze rozbudowa aplikacja (smart)",
-        "pros": [
-            "dokładnie sprząta",
-            "funkcje smart home",
-            "łatwy do czyszczenia",
-            "mopuje sonicznie",
-            "mówi po polsku",
-            "nie wkręca włosów",
-            "nieobijasię o ściany",
-            "wytrzymała bateria"
-        ],
+        "content": "Super, jak na razie spisuje się świetnie. Jestem zadowolony  z zakupu. Z sierścią psa radzi sobie doskonale. Funkcja mopowania też spisuje się na medal. Szczerze myślałem, że przereklomane ale pozytywnie się zaskoczyłem. Polecam",
+        "pros": [],
         "cons": [],
-        "useful": "1",
+        "useful": "0",
         "unuseful": "0",
-        "post_date": "2021-11-03 07:53:19",
-        "purchase_date": "2021-10-12 14:14:52"
+        "post_date": "2022-10-27 03:29:36",
+        "purchase_date": "2022-10-21 17:40:20"
     },
     {
         "opinion_id": "16081244",
@@ -335,20 +335,21 @@
         "purchase_date": "2022-02-28 22:48:32"
     },
     {
-        "opinion_id": "16852831",
-        "author": "e...k",
+        "opinion_id": "15652232",
+        "author": "Użytkownik Ceneo",
         "recommendation": "Polecam",
-        "stars": "4/5",
-        "content": "Mam go krótko a to jest na prezent dla żony i mam nadzieję że ubędzie jej pracy.",
+        "stars": "4,5/5",
+        "content": "Dobry jest; czarny, szybki, inteligentny i dokładny. Tego właśnie oczekiwałem.",
         "pros": [
             "dokładnie sprząta",
+            "mopuje sonicznie",
             "nieobijasię o ściany"
         ],
         "cons": [],
         "useful": "0",
         "unuseful": "0",
-        "post_date": "2022-12-08 19:47:43",
-        "purchase_date": "2022-11-28 14:41:39"
+        "post_date": "2022-02-03 15:22:00",
+        "purchase_date": "2022-01-28 20:05:25"
     },
     {
         "opinion_id": "15776220",
@@ -373,21 +374,20 @@
         "purchase_date": "2022-02-24 12:54:30"
     },
     {
-        "opinion_id": "15652232",
-        "author": "Użytkownik Ceneo",
+        "opinion_id": "16852831",
+        "author": "e...k",
         "recommendation": "Polecam",
-        "stars": "4,5/5",
-        "content": "Dobry jest; czarny, szybki, inteligentny i dokładny. Tego właśnie oczekiwałem.",
+        "stars": "4/5",
+        "content": "Mam go krótko a to jest na prezent dla żony i mam nadzieję że ubędzie jej pracy.",
         "pros": [
             "dokładnie sprząta",
-            "mopuje sonicznie",
             "nieobijasię o ściany"
         ],
         "cons": [],
         "useful": "0",
         "unuseful": "0",
-        "post_date": "2022-02-03 15:22:00",
-        "purchase_date": "2022-01-28 20:05:25"
+        "post_date": "2022-12-08 19:47:43",
+        "purchase_date": "2022-11-28 14:41:39"
     },
     {
         "opinion_id": "15993173",
@@ -510,17 +510,17 @@
         "purchase_date": "2022-10-31 00:14:52"
     },
     {
-        "opinion_id": "15782867",
-        "author": "b...r",
+        "opinion_id": "14725680",
+        "author": "f...a",
         "recommendation": "Polecam",
-        "stars": "5/5",
-        "content": "polecam, trochę problemów z mapowaniem powierzchni",
+        "stars": "4,5/5",
+        "content": "doskonały, spełnił moje oczekiwania",
         "pros": [],
         "cons": [],
         "useful": "0",
         "unuseful": "0",
-        "post_date": "2022-03-05 10:30:41",
-        "purchase_date": "2022-02-19 12:07:25"
+        "post_date": "2021-07-15 13:18:06",
+        "purchase_date": "2021-07-04 22:02:28"
     },
     {
         "opinion_id": "15228226",
@@ -544,17 +544,17 @@
         "purchase_date": "2021-11-01 14:46:23"
     },
     {
-        "opinion_id": "14725680",
-        "author": "f...a",
+        "opinion_id": "15782867",
+        "author": "b...r",
         "recommendation": "Polecam",
-        "stars": "4,5/5",
-        "content": "doskonały, spełnił moje oczekiwania",
+        "stars": "5/5",
+        "content": "polecam, trochę problemów z mapowaniem powierzchni",
         "pros": [],
         "cons": [],
         "useful": "0",
         "unuseful": "0",
-        "post_date": "2021-07-15 13:18:06",
-        "purchase_date": "2021-07-04 22:02:28"
+        "post_date": "2022-03-05 10:30:41",
+        "purchase_date": "2022-02-19 12:07:25"
     },
     {
         "opinion_id": "15272516",
@@ -662,34 +662,6 @@
         "purchase_date": "2021-11-17 14:06:53"
     },
     {
-        "opinion_id": "16381488",
-        "author": "i...r",
-        "recommendation": "Polecam",
-        "stars": "4,5/5",
-        "content": "Udany zakup",
-        "pros": [
-            "dokładnie sprząta",
-            "funkcje smart home",
-            "intuicyjna aplikacja",
-            "łatwe parowanie z te",
-            "łatwy do czyszczenia",
-            "mopuje sonicznie",
-            "mówi po polsku",
-            "nie wkręca włosów",
-            "nieobijasię o ściany",
-            "pracuje cicho",
-            "rozpoznaje pokoje",
-            "wytrzymała bateria"
-        ],
-        "cons": [
-            "nie mopuje w rogach"
-        ],
-        "useful": "0",
-        "unuseful": "0",
-        "post_date": "2022-08-03 00:23:28",
-        "purchase_date": "2022-07-18 02:03:46"
-    },
-    {
         "opinion_id": "14973856",
         "author": "b...2",
         "recommendation": "Polecam",
@@ -730,6 +702,34 @@
         "unuseful": "0",
         "post_date": "2022-03-05 08:27:45",
         "purchase_date": "2022-02-12 06:48:33"
+    },
+    {
+        "opinion_id": "16381488",
+        "author": "i...r",
+        "recommendation": "Polecam",
+        "stars": "4,5/5",
+        "content": "Udany zakup",
+        "pros": [
+            "dokładnie sprząta",
+            "funkcje smart home",
+            "intuicyjna aplikacja",
+            "łatwe parowanie z te",
+            "łatwy do czyszczenia",
+            "mopuje sonicznie",
+            "mówi po polsku",
+            "nie wkręca włosów",
+            "nieobijasię o ściany",
+            "pracuje cicho",
+            "rozpoznaje pokoje",
+            "wytrzymała bateria"
+        ],
+        "cons": [
+            "nie mopuje w rogach"
+        ],
+        "useful": "0",
+        "unuseful": "0",
+        "post_date": "2022-08-03 00:23:28",
+        "purchase_date": "2022-07-18 02:03:46"
     },
     {
         "opinion_id": "17418351",
@@ -844,32 +844,6 @@
         "purchase_date": "2022-11-02 16:21:38"
     },
     {
-        "opinion_id": "16723635",
-        "author": "t...h",
-        "recommendation": "Polecam",
-        "stars": "4,5/5",
-        "content": "Ok",
-        "pros": [],
-        "cons": [],
-        "useful": "0",
-        "unuseful": "0",
-        "post_date": "2022-11-08 11:09:04",
-        "purchase_date": "2022-10-31 10:52:04"
-    },
-    {
-        "opinion_id": "16524011",
-        "author": "m...3",
-        "recommendation": "Polecam",
-        "stars": "5/5",
-        "content": "Ok",
-        "pros": [],
-        "cons": [],
-        "useful": "0",
-        "unuseful": "0",
-        "post_date": "2022-09-15 10:36:08",
-        "purchase_date": "2022-09-06 17:04:21"
-    },
-    {
         "opinion_id": "15582684",
         "author": "m...k",
         "recommendation": "Polecam",
@@ -895,6 +869,32 @@
         "unuseful": "1",
         "post_date": "2022-01-19 21:13:30",
         "purchase_date": "2022-01-04 20:03:59"
+    },
+    {
+        "opinion_id": "16524011",
+        "author": "m...3",
+        "recommendation": "Polecam",
+        "stars": "5/5",
+        "content": "Ok",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "unuseful": "0",
+        "post_date": "2022-09-15 10:36:08",
+        "purchase_date": "2022-09-06 17:04:21"
+    },
+    {
+        "opinion_id": "16723635",
+        "author": "t...h",
+        "recommendation": "Polecam",
+        "stars": "4,5/5",
+        "content": "Ok",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "unuseful": "0",
+        "post_date": "2022-11-08 11:09:04",
+        "purchase_date": "2022-10-31 10:52:04"
     },
     {
         "opinion_id": "15686098",
